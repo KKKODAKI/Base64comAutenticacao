@@ -6,7 +6,7 @@ import os
 escolha = 1
 
 # Resposta 
-# 3) Expansão da Mensagem com mais palavras e realizar mais processo de compressão
+# 3) Expansão da Mensagem com mais palavras e realizar mais processo de compressão, pois a hash ficaria maior e ela passaria por mais mudanças
 
 while(escolha):
     os.system('cls')
